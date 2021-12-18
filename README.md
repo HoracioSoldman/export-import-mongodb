@@ -1,5 +1,5 @@
 ## export-import-mongodb
-This repo containes two scripts to export and import mongodb collections
+This repo contains two scripts to export and import mongodb collections
 
 ### To run the scripts
 ```
